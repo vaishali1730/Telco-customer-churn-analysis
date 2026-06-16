@@ -1,1 +1,42 @@
+# Telco Customer Churn Prediction
 
+## Academic Project
+Completed as part of IST 615 – Business Intelligence Systems at Cleveland State University.
+
+## Project Overview
+This project predicts customer churn using Machine Learning and Business Intelligence techniques on the IBM Telco Customer Churn dataset.
+
+## Objectives
+- Analyze customer churn behavior
+- Clean and preprocess customer data
+- Build a Logistic Regression prediction model
+- Evaluate model performance
+- Recommend customer retention strategies
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Jupyter Notebook
+
+## Model Used
+- Logistic Regression
+
+## Results
+- Accuracy: 75.44%
+- Precision: 52.59%
+- Recall: 75.94%
+- F1 Score: 62.14%
+- ROC-AUC: 84.01%
+
+## Key Findings
+- Customers with short tenure are more likely to churn.
+- Customers with high monthly charges have higher churn risk.
+- Month-to-month contracts show higher churn rates.
+
+## Author
+Vaishali Bundela  
+Master of Information Systems  
+Cleveland State University
